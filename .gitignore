@@ -1,0 +1,37 @@
+# --- learning / scaffold files (kept private, not part of the public repo) ---
+01_build.R
+01_build.ipynb
+02_build.sh
+02_build.R
+02_build.ipynb
+WORKFLOW.md
+INTERVIEW_QA.md
+*practiced*
+*_tried*
+*ran_once*
+_gen*.py
+
+# --- fetched / generated data (large; not committed; keep placeholders) ---
+data_R/*
+!data_R/.gitkeep
+data_q/*
+!data_q/.gitkeep
+
+# --- sequencing / QIIME2 artifacts (large binaries) ---
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.qza
+*.qzv
+*.biom
+*.zip
+silva_*.fa.gz
+*_classifier.qza
+
+# --- junk ---
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/

@@ -1,0 +1,33 @@
+id	body-site	subject	reported-antibiotic-usage	shannon_entropy
+#q2:types	categorical	categorical	categorical	numeric
+L1S8	gut	subject-1	Yes	3.09774187541738
+L1S57	gut	subject-1	No	4.14383785891351
+L1S76	gut	subject-1	No	3.62177485351613
+L1S105	gut	subject-1	No	3.78102439883346
+L2S155	left palm	subject-1	No	5.06356928280661
+L2S175	left palm	subject-1	No	4.88671251369697
+L2S204	left palm	subject-1	No	4.20518377832307
+L2S222	left palm	subject-1	No	6.3475417302383
+L3S294	right palm	subject-1	No	4.32595232351306
+L3S313	right palm	subject-1	No	4.46229209935628
+L5S104	tongue	subject-1	Yes	3.61488198197567
+L5S155	tongue	subject-1	No	3.18700670261238
+L5S174	tongue	subject-1	No	3.39784432362525
+L5S203	tongue	subject-1	No	3.64913382590441
+L5S222	tongue	subject-1	No	3.31433320255989
+L1S140	gut	subject-2	Yes	3.75426313704101
+L1S208	gut	subject-2	No	4.48761122401637
+L1S257	gut	subject-2	No	4.65372758819189
+L1S281	gut	subject-2	No	4.57744414998476
+L2S240	left palm	subject-2	Yes	3.7665652913018
+L2S309	left palm	subject-2	No	4.55651055443222
+L2S357	left palm	subject-2	No	4.50441083324111
+L2S382	left palm	subject-2	No	5.83952367522317
+L3S378	right palm	subject-2	Yes	3.55681761057564
+L4S63	right palm	subject-2	No	6.06887106586523
+L4S112	right palm	subject-2	No	5.21993782824577
+L4S137	right palm	subject-2	No	5.45505077689669
+L5S240	tongue	subject-2	Yes	3.30502571112642
+L6S20	tongue	subject-2	No	2.92735544493919
+L6S68	tongue	subject-2	No	3.38779937663504
+L6S93	tongue	subject-2	No	4.23704830633134
